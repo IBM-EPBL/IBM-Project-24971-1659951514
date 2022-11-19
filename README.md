@@ -2,6 +2,7 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 TEAM_ID: PNT2022TMID03894
+
 Team lead: Srinidhi R  
 M1 lead: Varshaa V  
 M2 lead: Sirisha Upparaplli  
