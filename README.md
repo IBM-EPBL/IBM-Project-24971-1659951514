@@ -5,8 +5,8 @@ TEAM_ID: PNT2022TMID03894
 
 Team lead: Srinidhi R  
 M1 lead: Varshaa V  
-M2 lead: Sirisha Upparaplli  
-M3 lead: Srividhya S
+M2 lead: Sirisha Upparapalli  
+M3 lead: Srividhya S  
 M4 lead: Buvana
 
 [Video Link](https://youtu.be/d4XM2i8sfhs)
